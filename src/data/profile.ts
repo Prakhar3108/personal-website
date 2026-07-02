@@ -2,7 +2,7 @@ export const profile = {
   name: "Prakhar Garg",
   title: "AI Engineer & Full-Stack Developer",
   tagline:
-    "Interning at Bain on AI agents and RAG. I also build full-stack apps — chat, mobile, the usual.",
+    "I build AI-powered applications, RAG systems, and full-stack web experiences.",
   email: "prak.works@gmail.com",
   phone: "+91-8527593031",
   linkedin: "https://linkedin.com/in/prakhar-garg31",
@@ -11,7 +11,7 @@ export const profile = {
   education: {
     degree: "B.Tech — Mathematics & Computing",
     school: "Delhi Technological University (DTU), Delhi",
-    cgpa: "8.81 (Till Sem 7)",
+    cgpa: "8.8",
     years: "2022 – 2026",
   },
   highlights: [

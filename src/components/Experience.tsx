@@ -8,7 +8,7 @@ export function Experience() {
           Experience<span className="text-accent">.</span>
         </h2>
         <p className="mt-3 max-w-xl text-text-secondary">
-          Bain, IOCL, and PowerGrid — newest first.
+          Internships at Bain, IOCL, and PowerGrid.
         </p>
 
         <div className="mt-12 space-y-8">

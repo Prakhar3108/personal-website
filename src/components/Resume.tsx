@@ -11,7 +11,7 @@ export function Resume() {
           Resume<span className="text-accent">.</span>
         </h2>
         <p className="mt-3 max-w-xl text-text-secondary">
-          One-pager — same details as below, easy to share.
+          Download my resume for a detailed overview of my experience and projects.
         </p>
 
         <div className="mt-10 overflow-hidden rounded-xl border border-surface-border bg-surface-raised">
